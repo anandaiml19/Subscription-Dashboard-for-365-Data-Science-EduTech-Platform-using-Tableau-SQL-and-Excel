@@ -63,7 +63,7 @@ Results and certain insights from the 365 data science Dashboard can determine w
 
 __Data Analysis – Approach__
 
-<p  align="center"><a href="https://public.tableau.com/app/profile/krishna.anand7092"><img width="80%" src="https://github.com/anandaiml19/Subscription-Dashboard-for-365-Data-Science-EduTech-Platform-using-Tableau-SQL-and-Excel/blob/main/Images/Project_Approach_Overview.png" /></a></p>
+<p  align="center"><a href="https://public.tableau.com/app/profile/krishna.anand7092"><img width="80%" src="https://github.com/anandaiml19/Subscription-Dashboard-for-365-Data-Science-EduTech-Platform-using-Tableau-SQL-and-Excel/blob/main/Images/data%20analysis%20approach%20new.jpg" /></a></p>
 
 
 __Steps Involved:__
