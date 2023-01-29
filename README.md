@@ -27,7 +27,6 @@ __Technologies Used:⚙️__
 
 ![https://public.tableau.com/app/profile/krishna.anand7092](https://github.com/anandaiml19/Subscription-Dashboard-for-365-Data-Science-EduTech-Platform-using-Tableau-SQL-and-Excel/blob/main/Images/Subscription_Dashboard.jpg)
 
-
 __Problem statement:__
 
 The CEO of the company interested to know the following insights from the dashboard:
@@ -63,7 +62,7 @@ Results and certain insights from the 365 data science Dashboard can determine w
 
 __Data Analysis – Approach__
 
-<p  align="center"><a href="https://public.tableau.com/app/profile/krishna.anand7092"><img width="80%" src="https://github.com/anandaiml19/Subscription-Dashboard-for-365-Data-Science-EduTech-Platform-using-Tableau-SQL-and-Excel/blob/main/Images/data%20analysis%20approach%20new.jpg" /></a></p>
+<p  align="center"><a href="https://public.tableau.com/app/profile/krishna.anand7092"><img width="50%" src="https://github.com/anandaiml19/Subscription-Dashboard-for-365-Data-Science-EduTech-Platform-using-Tableau-SQL-and-Excel/blob/main/Images/data%20analysis%20approach1.jpg" /></a></p>
 
 
 __Steps Involved:__
